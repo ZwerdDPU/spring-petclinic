@@ -12,19 +12,19 @@ DPU\dzwerdli
 ![Screen capture of the previous paragraph](images/Screenshot_2023-02-15_14-46-02.png)
 
 - The section of the POM file showing the coordinates after you’ve commented them out.
-![Screen capture of the previous paragraph](images/
+![Screen capture of the previous paragraph](images/Screenshot_2023-02-15_14-57-16.png)
 
 
 - Your GitHub Actions dashboard showing the unsuccessful build after the breaking change.
-![Screen capture of the previous paragraph](images/
+![Screen capture of the previous paragraph](images/Screenshot_2023-02-15_14-58-01.png)
 
 
 - Your GitHub repository with the readme.md file selected showing the build failed status after the GitHub workflow fails.
-![Screen capture of the previous paragraph](images/
+![Screen capture of the previous paragraph](images/Screenshot_2023-02-15_14-58-37.png)
 
 
 - The section of the POM file showing the coordinates after you’ve fixed them.
-![Screen capture of the previous paragraph](images/
+![Screen capture of the previous paragraph](images/Screenshot_2023-02-15_14-59-15.png)
 
 
 - Your GitHub Actions dashboard showing the successful build after the breaking change has been fixed.
