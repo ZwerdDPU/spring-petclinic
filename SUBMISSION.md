@@ -28,8 +28,8 @@ DPU\dzwerdli
 
 
 - Your GitHub Actions dashboard showing the successful build after the breaking change has been fixed.
-![Screen capture of the previous paragraph](images/
+![Screen capture of the previous paragraph](images/Screenshot_2023-02-15_15-01-30.png)
 
 
 - Your GitHub repository with the readme.md file selected showing the build success status after the GitHub workflow has recovered.
-![Screen capture of the previous paragraph](images/
+![Screen capture of the previous paragraph](images/Screenshot_2023-02-15_15-01-49.png)
